@@ -4,11 +4,11 @@ import MarkdownItPlantuml from 'markdown-it-plantuml';
 
 export default defineUserConfig({
   // Замінити на назву свого репозиторія
-  base: "/db-course-hope-template/",
+  base: "/db_labs_demo/",
 
   lang: "en-US",
   // Замінити на назву свого проєкту
-  title: "Назва проєкту",
+  title: "Test",
   description: "Лабораторні роботи",
 
   theme,
