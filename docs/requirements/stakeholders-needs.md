@@ -28,12 +28,24 @@
 ## Короткий зміст
 
 1. [Характеристика ділових процесів](#business-processes)
+   - [Create user account](#CreateUserAccount)
+   - [Change user data](#ChangeUserData)
+   - [Remove user account](#RemoveUserAccount)
+   - [Create survey](#CreateSurvey)
+   - [Close survey](#CloseSurvey)
+   - [Remove survey](#RemoveSurvey)
+   - [Get survey analytics](#GetSurveyAnalytics)
+   - [Show created surveys](#ShowCreatedSurveys)
+   - [Take survey](#TakeSurvey)
+   - [Change answer](#ChangeAnswer)
+   - [Show taken surveys](#ShowTakenSurveys)
 2. [Короткий огляд продукту](#description)
 3. [Функціональність](#functionality)
 4. [Практичність](#usability)
 5. [Надійність](#reliability)
 6. [Продуктивність](#performance)
 7. [Експлуатаційна придатність](#supportability)
+
 
 ## Характеристика ділових процесів
 
