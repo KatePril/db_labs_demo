@@ -39,6 +39,13 @@
    - [Take survey](#TakeSurvey)
    - [Change answer](#ChangeAnswer)
    - [Show taken surveys](#ShowTakenSurveys)
+2. [Короткий огляд продукту](#description)
+3. [Функціональність](#functionality)
+4. [Практичність](#usability)
+5. [Надійність](#reliability)
+6. [Продуктивність](#performance)
+7. [Експлуатаційна придатність](#supportability)
+
 
 ## Характеристика ділових процесів
 
